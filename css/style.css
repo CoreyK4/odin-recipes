@@ -1,0 +1,18 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.description h2, .ingredients h2, .steps h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description p, .ingredients ul, .steps ol {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 50%;
+}
